@@ -1,57 +1,27 @@
-}
-# 💈 BarberFlow
+# BarberFlow
 
-Sistema SaaS para gerenciamento de barbearias.
-
----
-
-## 📌 Sobre o Projeto
-O BarberFlow é uma plataforma digital para organizar agendamentos, clientes e serviços de barbearias.
-
----
-
-## 🎯 Objetivo
-Facilitar a gestão de barbearias e melhorar o atendimento ao cliente.
-
----
+Sistema SaaS para gestão de barbearias.
 
 ## 👥 Integrantes
-- Guilherme Ribeiro Lins – RA: XXXXX  
+- Guilherme Ribeiro Lins – RA: 924101002
+- Kauan matheus da silva - RA: 924102659
+- Gustavo silva campos - RA: 924107402
 
----
-
-## 🧩 Problema
-Barbearias usam papel ou WhatsApp, causando desorganização e perda de clientes.
-
----
+## 📌 Problema
+Barbearias utilizam métodos informais como WhatsApp e agendas físicas, gerando desorganização.
 
 ## 💡 Solução
-Sistema com:
-- Agendamento online  
-- Controle de clientes  
-- Histórico de atendimentos  
+Sistema online para agendamento e gestão de clientes.
 
----
+## 🚀 Funcionalidades
+- Cadastro de barbeiros
+- Login
+- Cadastro de clientes
+- Agendamento
+- Histórico de serviços
 
-## ⚙️ Funcionalidades
-- Cadastro  
-- Login  
-- Agendamento  
-- Lista de clientes  
-
----
-
-## 📋 Requisitos Funcionais
-- RF01 – Cadastro  
-- RF02 – Login  
-- RF03 – Clientes  
-- RF04 – Agendamento  
-- RF05 – Cancelamento  
-- RF06 – Agenda  
-- RF07 – Serviços  
-- RF08 – Preços  
-- RF09 – Histórico  
-- RF10 – Notificações  
+## ▶️ Como usar
+Sistema em desenvolvimento acadêmico.
 
 ---
 
