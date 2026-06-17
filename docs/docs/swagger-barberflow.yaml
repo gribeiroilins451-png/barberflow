@@ -1,0 +1,46 @@
+openapi: 3.0.0
+
+info:
+  title: BarberFlow API
+  version: 1.0.0
+  description: API para gerenciamento de barbearias
+
+paths:
+
+  /auth/login:
+    post:
+      summary: Realizar login
+
+  /auth/register:
+    post:
+      summary: Registrar usuário
+
+  /clientes:
+    get:
+      summary: Listar clientes
+    post:
+      summary: Cadastrar cliente
+
+  /clientes/{id}:
+    put:
+      summary: Atualizar cliente
+    delete:
+      summary: Excluir cliente
+
+  /agendamentos:
+    get:
+      summary: Listar agendamentos
+    post:
+      summary: Criar agendamento
+
+  /agendamentos/{id}:
+    put:
+      summary: Atualizar agendamento
+    delete:
+      summary: Cancelar agendamento
+
+  /servicos:
+    get:
+      summary: Listar serviços
+    post:
+      summary: Cadastrar serviço
